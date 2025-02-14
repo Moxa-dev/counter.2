@@ -1,0 +1,16 @@
+src/
+├── components/
+│   ├── atoms/
+│   │   ├── Button.tsx
+│   │   └── Text.tsx
+│   ├── molecules/
+│   │   └── ButtonText.tsxs
+│   ├── organism/
+│   │   ├── Counter.tsx
+│   │   └── CounterContext.tsx
+│   └── views/
+│       └── CounterView.tsx
+├── hooks/
+│   └── useDebounce.ts
+└── pages/
+    └── index.tsx
